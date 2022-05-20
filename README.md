@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SuperQoo
 - 👀 I’m interested in playing badminton
-- I just graduated from university 
 - 🌱 I’m currently learning how to creat my own blog page
 - 💞️ I'd like to share my daily life with friends
 
