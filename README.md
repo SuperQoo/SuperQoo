@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SuperQoo
-- 👀 I’m interested in playing badminton
+- 👋 Hi, I’m @SuperQoo. I'm from CHINA.
+- 👀 I’m green hand coder. Like to make gadgets for fun.
 - 🌱 I’m currently learning how to creat my own blog page
 - 💞️ I'd like to share my daily life with friends
 
